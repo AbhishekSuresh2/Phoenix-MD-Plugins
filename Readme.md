@@ -1,11 +1,9 @@
 
 <h1 align="center"> ABHISHEK-SER Bot Plugins </h1>
 <div align="center">
-<br /> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SamPandey001&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
----
-
-
+𝙷𝙾𝚆 𝚃𝙾 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝙿𝙻𝚄𝙶𝙸𝙽 <𝙿𝙻𝚄𝙶𝙸𝙽 𝙻𝙸𝙽𝙺> <br>
+𝙷𝙾𝚆 𝚃𝙾 𝙲𝙷𝙴𝙲𝙺 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙴𝙳 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝙿𝙻𝚄𝙶𝙸𝙽 𝙻𝙸𝚂𝚃 <br>
+𝙷𝙾𝚆 𝚃𝙾 𝚁𝙴𝙼𝙾𝚅𝙴 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝙿𝙻𝚄𝙶𝙸𝙽 <𝙽𝙰𝙼𝙴>
 <br>
 
 <h4 align="center"> nme </h1>
@@ -14,9 +12,9 @@
 ```
 link here
 ```
-ᴩᴀᴛᴛᴇʀɴ : ᴠᴠ <br>
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴠᴠ ᴜꜱᴇᴅ ᴛᴏ ɢᴇᴛ ᴀ ᴏɴᴇꜱ ɪᴍᴀɢᴇ ᴏʀ ᴠɪᴅᴇᴏ
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : cmd here <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : give example <br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : ᴠᴠ ᴜꜱᴇᴅ ᴛᴏ ɢᴇᴛ ᴀ ᴏɴᴇꜱ ɪᴍᴀɢᴇ ᴏʀ ᴠɪᴅᴇᴏ
 <br>
 <br>
 <br>
@@ -24,11 +22,11 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 
 
 ```
-https://gist.github.com/inrl-official/f31e26f4c18ff9412d1dd59dc466b49a
+lin here
 ```
-ᴩᴀᴛᴛᴇʀɴ : @ <br>
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴍᴇɴᴛɪᴏɴ ᴜꜱᴇᴅ ᴛᴏ ꜱᴇɴᴅ ᴀᴜᴅɪᴏ ᴡʜᴇɴ ꜱᴏᴍᴇᴏɴᴇ ᴍᴇɴᴛɪᴏɴ ᴏᴡɴᴇʀ
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : cmd here <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : give example <br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : ᴍᴇɴᴛɪᴏɴ ᴜꜱᴇᴅ ᴛᴏ ꜱᴇɴᴅ ᴀᴜᴅɪᴏ ᴡʜᴇɴ ꜱᴏᴍᴇᴏɴᴇ ᴍᴇɴᴛɪᴏɴ ᴏᴡɴᴇʀ
 <br>
 <br>
 <br>
@@ -36,11 +34,11 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 
 
 ```
-https://gist.github.com/inrl-official/66b81812f1b5e8374dd962362aad7dc7
+link here
 ```
-ᴩᴀᴛᴛᴇʀɴ : ɪɴᴛʀᴏ <br>
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ɪɴᴛʀᴏ ᴜꜱᴇᴅ ᴛᴏ ɢɪᴠᴇ ꜱᴏᴍᴇ ᴅᴇᴛᴀʟɪꜱ ᴏꜰ ᴏᴡᴇɴ 
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : cmd here <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : give example <br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : ɪɴᴛʀᴏ ᴜꜱᴇᴅ ᴛᴏ ɢɪᴠᴇ ꜱᴏᴍᴇ ᴅᴇᴛᴀʟɪꜱ ᴏꜰ ᴏᴡᴇɴ 
 <br>
 <br>
 <br>
@@ -48,11 +46,11 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 
 
 ```
-https://gist.github.com/inrl-official/59f1c7aca2f83447c347f983a275ba52
+link here
 ```
-ᴩᴀᴛᴛᴇʀɴ : ᴀɪᴛᴛꜱ <br>
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴛᴛꜱ ᴡɪᴛʜ ᴇʟᴀᴠɴʟᴀʙꜱ ᴀɪ
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : cmd here <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : give example <br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : ᴛᴛꜱ ᴡɪᴛʜ ᴇʟᴀᴠɴʟᴀʙꜱ ᴀɪ
 <br>
 <br>
 <br>
@@ -62,11 +60,11 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 
 
 ```
-https://gist.github.com/inrl-official/59f1c7aca2f83447c347f983a275ba52
+link here
 ```
-ᴩᴀᴛᴛᴇʀɴ : ᴀɪᴛᴛꜱ <br>
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴛᴛꜱ ᴡɪᴛʜ ᴇʟᴀᴠɴʟᴀʙꜱ ᴀɪ
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : cmd here <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : give example <br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : ᴛᴛꜱ ᴡɪᴛʜ ᴇʟᴀᴠɴʟᴀʙꜱ ᴀɪ
 <br>
 <br>
 <br>
@@ -75,25 +73,24 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
 
 
 ```
-https://gist.github.com/inrl-official/59f1c7aca2f83447c347f983a275ba52
+link here
 ```
-ᴩᴀᴛᴛᴇʀɴ : ᴀɪᴛᴛꜱ <br>
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴛᴛꜱ ᴡɪᴛʜ ᴇʟᴀᴠɴʟᴀʙꜱ ᴀɪ
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : cmd here <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : give example <br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : ᴛᴛꜱ ᴡɪᴛʜ ᴇʟᴀᴠɴʟᴀʙꜱ ᴀɪ
 <br>
 <br>
 <br>
 
-<h4 align="center">  Mention Preview </h1>
 <h4 align="center"> nme </h1>
 
 
 ```
-https://gist.github.com/inrl-official/59f1c7aca2f83447c347f983a275ba52
+link here
 ```
-ᴩᴀᴛᴛᴇʀɴ : ᴀɪᴛᴛꜱ <br>
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ <br>
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ᴛᴛꜱ ᴡɪᴛʜ ᴇʟᴀᴠɴʟᴀʙꜱ ᴀɪ
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : cmd here <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : give example <br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : ᴛᴛꜱ ᴡɪᴛʜ ᴇʟᴀᴠɴʟᴀʙꜱ ᴀɪ
 <br>
 <br>
 <br>
