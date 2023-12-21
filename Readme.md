@@ -5,7 +5,7 @@
 𝙷𝙾𝚆 𝚃𝙾 𝚁𝙴𝙼𝙾𝚅𝙴 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝚁𝙴𝙼𝙾𝚅𝙴 <𝙿𝙻𝚄𝙶𝙸𝙽 𝙽𝙰𝙼𝙴>
 <br>
 
-<h4 align="center"> nme </h1>
+<h4 align="center"> Couplepp </h1>
 
 
 ```
@@ -17,7 +17,7 @@ https://gist.github.com/AbhishekSuresh2/ee516efae9c30c7a2e98f96adf323866
 <br>
 <br>
 <br>
-<h4 align="center"> nme </h1>
+<h4 align="center"> Cat </h1>
 
 
 ```
