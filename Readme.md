@@ -29,7 +29,6 @@ https://gist.github.com/AbhishekSuresh2/88ce0551078f7d10db712b984008c4e8
 <br>
 <br>
 <br>
-<h4 align="center"> nme </h1>
 
 
 ### more plugins soon
