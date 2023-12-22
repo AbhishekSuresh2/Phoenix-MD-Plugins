@@ -29,6 +29,18 @@ https://gist.github.com/AbhishekSuresh2/88ce0551078f7d10db712b984008c4e8
 <br>
 <br>
 <br>
+<h4 align="center"> Time </h1>
+
+
+```
+https://gist.github.com/AbhishekSuresh2/3cd5b5ab10a7ac0334316b1690edd5e7
+```
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : time <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : time India<br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Get Time Information
+<br>
+<br>
+<br>
 
 
 ### more plugins soon
