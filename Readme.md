@@ -17,30 +17,17 @@ https://gist.github.com/AbhishekSuresh2/ee516efae9c30c7a2e98f96adf323866
 <br>
 <br>
 <br>
-<h4 align="center"> Cat </h1>
+<h4 align="center"> no name </h1>
 
 
 ```
-https://gist.github.com/AbhishekSuresh2/88ce0551078f7d10db712b984008c4e8
+no link avalible 
 ```
-𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : cat <br>
-𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : cat <br>
-𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Gives Random Cat Stickers
-<br>
-<br>
-<br>
-<h4 align="center"> Time </h1>
-
-
-```
-https://gist.github.com/AbhishekSuresh2/3cd5b5ab10a7ac0334316b1690edd5e7
-```
-𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : time <br>
-𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : time India<br>
-𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Get Time Information
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : no info <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : no info <br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : no info
 <br>
 <br>
 <br>
 
-
-### more plugins soon
+### more plugins after 60 forks on Phoenix-MD repo🎯
