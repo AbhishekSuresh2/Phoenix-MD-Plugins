@@ -30,4 +30,4 @@ no link avalible
 <br>
 <br>
 
-### more plugins after 300 forks on Phoenix-MD repo🎯
+### more plugins after 50 stars on Phoenix-MD repo🎯
