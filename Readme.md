@@ -30,4 +30,4 @@ no link avalible
 <br>
 <br>
 
-### more plugins after 50 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
+### more plugins after 100 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
