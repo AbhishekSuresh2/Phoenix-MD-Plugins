@@ -9,11 +9,11 @@
 
 
 ```
-https://gist.github.com/AbhishekSuresh2/ee516efae9c30c7a2e98f96adf323866
+not found
 ```
-𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : couplepp <br>
-𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : couplepp <br>
-𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Gives Anime Couple Profile Pics
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : no info <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : no info <br>
+𝚄𝚂𝙰𝙶𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : no info
 <br>
 <br>
 <br>
@@ -21,7 +21,7 @@ https://gist.github.com/AbhishekSuresh2/ee516efae9c30c7a2e98f96adf323866
 
 
 ```
-no link avalible 
+not found
 ```
 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : no info <br>
 𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : no info <br>
