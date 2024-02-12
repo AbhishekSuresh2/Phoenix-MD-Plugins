@@ -1,4 +1,4 @@
-<h1 align="center"> Phoenix-MD Bot Plugins </h1>
+<h1 align="center"> KISH-MD Bot Plugins </h1>
 <div align="center">
 𝙷𝙾𝚆 𝚃𝙾 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝙿𝙻𝚄𝙶𝙸𝙽 <𝙿𝙻𝚄𝙶𝙸𝙽 𝙻𝙸𝙽𝙺> <br>
 𝙷𝙾𝚆 𝚃𝙾 𝙲𝙷𝙴𝙲𝙺 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙴𝙳 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝙻𝙸𝚂𝚃𝙿𝙻𝚄𝙶𝙸𝙽 <br>
@@ -30,4 +30,4 @@ not found
 <br>
 <br>
 
-### more plugins after 100 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
+### more plugins after 100 stars on [KISH-MD Repo📌](https://github.com/Brashokish/KISH.MD)🎯
