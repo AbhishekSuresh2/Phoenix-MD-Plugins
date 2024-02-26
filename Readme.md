@@ -30,4 +30,4 @@ not found
 <br>
 <br>
 
-### more plugins after 120 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
+### more plugins after 150 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
