@@ -5,7 +5,7 @@
 𝙷𝙾𝚆 𝚃𝙾 𝚁𝙴𝙼𝙾𝚅𝙴 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝚁𝙴𝙼𝙾𝚅𝙴 <𝙿𝙻𝚄𝙶𝙸𝙽 𝙽𝙰𝙼𝙴>
 <br>
 
-<h4 align="center"> Couplepp </h1>
+<h4 align="center"> no info </h1>
 
 
 ```
@@ -30,4 +30,4 @@ not found
 <br>
 <br>
 
-### more plugins after 150 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
+### more plugins after 160 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
