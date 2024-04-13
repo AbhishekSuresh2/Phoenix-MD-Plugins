@@ -5,11 +5,11 @@
 𝙷𝙾𝚆 𝚃𝙾 𝚁𝙴𝙼𝙾𝚅𝙴 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝚁𝙴𝙼𝙾𝚅𝙴 <𝙿𝙻𝚄𝙶𝙸𝙽 𝙽𝙰𝙼𝙴>
 <br>
 
-<h4 align="center"> no info </h1>
+<h4 align="center"> Need Plugins? Tell Me What Plugins Need As A Issue On This Repo </h1>
 
 
 ```
-not found
+Need Plugins? Tell Me What Plugins Need As A Issue On This Repo
 ```
 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : no info <br>
 𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : no info <br>
@@ -17,11 +17,11 @@ not found
 <br>
 <br>
 <br>
-<h4 align="center"> no name </h1>
+<h4 align="center"> Need Plugins? Tell Me What Plugins Need As A Issue On This Repo </h1>
 
 
 ```
-not found
+Need Plugins? Tell Me What Plugins Need As A Issue On This Repo
 ```
 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : no info <br>
 𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : no info <br>
