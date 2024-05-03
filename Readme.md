@@ -28,7 +28,7 @@
 
 
 ```
-https://gist.github.com/AbhishekSuresh2/94dea1c924f6d3a7bc8a590279911d3a
+https://gist.github.com/AbhishekSuresh2/8d5170132b5297358b26374fe72ebaa3
 ```
 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : astatus <br>
 𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : astatus <br>
