@@ -84,4 +84,40 @@ https://gist.github.com/AbhishekSuresh2/866d9707ded95c78326007beec81a6e9
 <br>
 <br>
 <br>
+<h4 align="center"> Miku </h1>
+
+
+```
+https://gist.github.com/AbhishekSuresh2/d09848445790d2096fee3354973e8884
+```
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : miku <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : miku <br>
+𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Gives Random Miku Pics
+<br>
+<br>
+<br>
+<h4 align="center"> Itachi </h1>
+
+
+```
+https://gist.github.com/AbhishekSuresh2/887349a3d7ad87f72d829ebf4e9407a6
+```
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : itachi <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : itachi <br>
+𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Gives Random Itachi Pics
+<br>
+<br>
+<br>
+<h4 align="center"> Itori </h1>
+
+
+```
+https://gist.github.com/AbhishekSuresh2/5c5ac042110eb33ce54e80bae2fd8ff0
+```
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : itori <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : itori <br>
+𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Gives Random Itori Pics
+<br>
+<br>
+<br>
 ### more plugins after 330 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
