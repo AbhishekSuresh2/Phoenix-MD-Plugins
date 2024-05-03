@@ -72,4 +72,16 @@ https://gist.github.com/AbhishekSuresh2/1ec74592d78bb491ec32b31b1b25bd8a
 <br>
 <br>
 <br>
+<h4 align="center"> Nezuko </h1>
+
+
+```
+https://gist.github.com/AbhishekSuresh2/866d9707ded95c78326007beec81a6e9
+```
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : nezuko <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : nezukoo <br>
+𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Gives Random Nezuko Pics
+<br>
+<br>
+<br>
 ### more plugins after 330 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
