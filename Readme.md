@@ -120,4 +120,4 @@ https://gist.github.com/AbhishekSuresh2/5c5ac042110eb33ce54e80bae2fd8ff0
 <br>
 <br>
 <br>
-### more plugins after 330 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
+### more plugins after 370 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
