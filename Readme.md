@@ -12,7 +12,7 @@
 ### Select A Category 📝
   
 * [Anime 🌸](#phoenix-animePlugins) 
-* [Not found](#Not found)
+* [Fun 😆](#phoenix-funPlugins)
 * [Not found](#Not found)
 * [Not found](#Not found) 
 * [Not found](#Not found)
@@ -25,6 +25,7 @@
 <a name="phoenix-animePlugins"></a>
 ### Anime Plugins 🌸
 <h4 align="center"> Astatus </h1>
+
 
 
 ```
@@ -119,5 +120,19 @@ https://gist.github.com/AbhishekSuresh2/5c5ac042110eb33ce54e80bae2fd8ff0
 𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Gives Random Itori Pics
 <br>
 <br>
+<a name="phoenix-funPlugins"></a>
+### Fun Plugins 😆
+<h4 align="center"> Buycoffee </h1>
+
+
+```
+https://gist.github.com/AbhishekSuresh2/849bba15e8f9c10318c4ddc6f71ea737
+```
+𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 : buycoffee <br>
+𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝚄𝚂𝙰𝙶𝙴 : buycoffee <br>
+𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Gives Random Coffee Pics
 <br>
-### more plugins after 370 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
+<br>
+<br>
+
+### more plugins after 390 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
