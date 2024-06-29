@@ -135,4 +135,4 @@ https://gist.github.com/AbhishekSuresh2/849bba15e8f9c10318c4ddc6f71ea737
 <br>
 <br>
 
-### more awesome plugins after 420 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
+### more awesome plugins after 540 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
