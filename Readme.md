@@ -1,4 +1,4 @@
-<h1 align="center"> Phoenix-MD Bot Plugins </h1>
+<h1 align="center"> HACKER YOVI-MD Bot Plugins </h1>
 <div align="center">
 𝙷𝙾𝚆 𝚃𝙾 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝙿𝙻𝚄𝙶𝙸𝙽 <𝙿𝙻𝚄𝙶𝙸𝙽 𝙻𝙸𝙽𝙺> <br>
 𝙷𝙾𝚆 𝚃𝙾 𝙲𝙷𝙴𝙲𝙺 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙴𝙳 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝙻𝙸𝚂𝚃𝙿𝙻𝚄𝙶𝙸𝙽 <br>
@@ -11,8 +11,8 @@
   
 ### Select A Category 📝
   
-* [Anime 🌸](#phoenix-animePlugins) 
-* [Fun 😆](#phoenix-funPlugins)
+* [Anime 🌸](#HACKER-YOVI-animePlugins) 
+* [Fun 😆](#HACKER-YOVI-funPlugins)
 * [Not found](#Not found)
 * [Not found](#Not found) 
 * [Not found](#Not found)
@@ -22,7 +22,7 @@
 </p>
 </details>
 
-<a name="phoenix-animePlugins"></a>
+<a name="HACKER YOVI-animePlugins"></a>
 ### Anime Plugins 🌸
 <h4 align="center"> Astatus </h1>
 
@@ -120,7 +120,7 @@ https://gist.github.com/AbhishekSuresh2/5c5ac042110eb33ce54e80bae2fd8ff0
 𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Gives Random Itori Pics
 <br>
 <br>
-<a name="phoenix-funPlugins"></a>
+<a name="HACKER YOVI-funPlugins"></a>
 ### Fun Plugins 😆
 <h4 align="center"> Buycoffee </h1>
 
@@ -135,4 +135,4 @@ https://gist.github.com/AbhishekSuresh2/849bba15e8f9c10318c4ddc6f71ea737
 <br>
 <br>
 
-### more awesome plugins after 540 stars on [Phoenix-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
+### more awesome plugins after 540 stars on [HACKER YOVI-MD Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD)🎯
