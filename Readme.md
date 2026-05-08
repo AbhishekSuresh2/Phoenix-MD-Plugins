@@ -54,5 +54,5 @@ https://gist.github.com/AbhishekSuresh2/6f97c03e4c98665f8509d7f82833fd36
 𝚄𝚂𝙴 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙿𝙻𝚄𝙶𝙸𝙽 : Send 20+ random styled Good Night messages.
 <br>
 
-### more awesome plugins after 50 stars on [Phoenix-MD Bot Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD-Bot)🎯
+### more awesome plugins after 200 stars on [Phoenix-MD Bot Repo📌](https://github.com/AbhishekSuresh2/Phoenix-MD-Bot)🎯
 
